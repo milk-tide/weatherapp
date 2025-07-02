@@ -9,7 +9,7 @@
     <FrameLayout
         android:id="@+id/titleLayout"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
+        android:layout_height="150dp"
         android:fitsSystemWindows="true">
 
         <Button
